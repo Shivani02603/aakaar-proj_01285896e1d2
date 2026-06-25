@@ -1,0 +1,6 @@
+# Ignore local development environment files
+dev.env
+
+# Ignore all environment files except .env.example
+*.env
+!.env.example
